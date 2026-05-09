@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U11TVK1A)
+
 # quicklinux-misc-files
 Just a repo to host misc files for any of the quicklinuxes especially good for curling
 
